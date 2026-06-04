@@ -18,3 +18,4 @@ pymupdf
 # Environment Variables
 python-dotenv
 sentence-transformers
+protobuf<=3.20.3
